@@ -27,8 +27,8 @@ h2 {
 div {
   text-align: center;
 }
-p {
-  font-style: Helvetica;
+p.sub {
+  font-family: Helvetica;
   font-size: 14px;
 }
 .bottom_heading {
@@ -37,4 +37,10 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
+}
+p.cr {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  font-family: Helvetica;
 }
