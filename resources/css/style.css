@@ -1,3 +1,8 @@
-p {
-  
+h1.header {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-image: url("../pictures/building.png");
 }
