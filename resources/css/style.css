@@ -4,5 +4,37 @@ h1.header {
   font-weight: bold;
   color: white;
   text-align: center;
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+.page_top {
+    background-image: url("../pictures/building.png");
+}
+.process2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+.pic_heading {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+div {
+  text-align: center;
+}
+p {
+  font-style: Helvetica;
+  font-size: 14px;
+}
+.bottom_heading {
   background-image: url("../pictures/building.png");
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
